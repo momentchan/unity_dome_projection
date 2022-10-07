@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 312f0619de0fa0844b0f71730865d7f9
+timeCreated: 1456511185
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - domeMasterMat: {fileID: 2100000, guid: 30a36b277d2573d4cb26efe940af30a1, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
